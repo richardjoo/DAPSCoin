@@ -1,0 +1,27 @@
+## Useful links
+  - bootstrap
+    - This link contains the latest bootstrap.
+    - https://github.com/DAPSCoin/BootStrap/releases/download/latest/bootstrap.zip
+    - [how to apply bootstrap on your masternode](masternodes-bootstrap.md)
+  - peers.dat
+    - If you click this link below to download the latest peers.dat
+      - https://github.com/DAPSCoin/BootStrap/releases/download/latest/peers.dat
+    - [How to apply the latest peers.dat on your masternodes](masternodes-peers.md)
+  - Block explorer
+    - https://explorer.dapscoin.com/explorer/overview/
+  - Version releases
+    - https://github.com/DAPSCoin/DAPSCoin/releases/
+  - How to create and manage swap file
+    - https://itsfoss.com/create-swap-file-linux/
+  - DAPS Multinode setup official
+    - https://raw.githubusercontent.com/DAPSCoin/Scripts/master/Masternodes/setup_multi.sh
+  - Forum
+    - https://forum.officialdapscoin.com/
+  - Telegram
+    - Masternode support
+      - @DAPS_MN_Support
+  - Lycidal's multiple node setup guide
+    - script for a bootstap
+      - https://raw.githubusercontent.com/lyricidal/Scripts/master/bootstrap.sh
+  - IPv6 address in a sequence
+    - https://superuser.com/questions/194397/how-to-find-the-next-ipv6-address-in-a-sequence
