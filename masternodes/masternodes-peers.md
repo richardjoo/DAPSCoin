@@ -1,4 +1,4 @@
-# How to apply the latest peers.dat on your masternodes
+# How to apply the latest peers.dat to your masternodes
   * stop your masternode
     - `dapscoin-cli stop`
     - it will be `stop00`, `stop01`, `stop02`, etc if you have multiple masternodes
