@@ -1,0 +1,1 @@
+# how to apply bootstrap on your masternode
