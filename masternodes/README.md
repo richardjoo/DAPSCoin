@@ -8,9 +8,10 @@
       - [DAPS Masternode Information/Instructions](https://officialdapscoin.com/masternodes/)
         - This is extremely important that you follow step by step to make sure you do not miss anything.
 
+<br><br>
 ## My server crashes, what should I do?
+  * I give full credit to @Daps_Spain on how to fix this issue.  He helped me with everything below.  Thanks @Daps_Spain! :D
   * Version 1.0.3.4 (the most current as of 2019-11-05) requires some tweaking server to avoid from servers to crash in some cases.
-    - I give full credit to @Daps_Spain
     - when you apply these suggestions listed below, I strongly recommend reboot your server(s)
       - stop the dapscoin daemon if it is running
         - `dapscoin-cli stop`
