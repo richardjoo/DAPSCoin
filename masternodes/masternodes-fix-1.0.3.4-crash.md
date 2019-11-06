@@ -19,6 +19,37 @@
     - `sudo vim /etc/sysctl.conf`
       - either add or update to `vm.swappiness=10`
 
+### Adjust maxconnection to 128 or 64
+  - stop the daemon
+    - `dapscoin-cli stop`
+  - go to the directory
+    - `cd ~/.dapscoin`
+  - if you have multiple nodes running, then it would be something like `cd ~/.dapscoin00`, `cd ~/.dapscoin01`, `cd ~/.dapscoin02`, `cd ~/.dapscoin03`, etc.
+  - `vim dapscoin.conf`
+    - I like vim as my editor. You can use nano, emacs, or vi or whatever you like.
+  - find `maxconnections=256` and change it to `maxconnections=64` or `maxconnections=128` and it would look like the example below (this is multiplenode setup)
+
+    ```
+      rpcuser=YOUR-USER-NAME
+      rpcpassword=YOUR-PASSWORD
+      rpcallowip=127.0.0.1
+      rpcport=YOUR-RPCPORT
+      listen=0
+      server=1
+      daemon=1
+      logtimestamps=1
+      maxconnections=64
+      masternode=1
+      externalip=[YOUR-EXTERNAL-IP]
+      bind=[YOUR-EXTERNAL-IP]:53572
+      masternodeaddr=[YOUR-EXTERNAL-IP]:53572
+      masternodeprivkey=YOUR-MASTERNODEPRIVKEY
+      datadir=/home/your-username/.dapscoin06
+      wallet=wallet06.dat
+    ```
+  - `:wq` to save and exit
+  - start the daemon again
+
 ### apply memory clean script to cron job
   - `sudo su`
   - `cd /bin/`
