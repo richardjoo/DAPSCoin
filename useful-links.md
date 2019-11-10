@@ -25,3 +25,5 @@
       - https://raw.githubusercontent.com/lyricidal/Scripts/master/bootstrap.sh
   - IPv6 address in a sequence
     - https://superuser.com/questions/194397/how-to-find-the-next-ipv6-address-in-a-sequence
+  - DAPS Masternode Instruction Video
+    - https://www.youtube.com/watch?v=fRafErbGYzs

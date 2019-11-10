@@ -11,11 +11,11 @@
 <br><br>
 
 ## Instructions
+  * [Official DAPS Masternode Instruction Video](https://www.youtube.com/watch?v=fRafErbGYzs)
   * [How to install bootstrap?](masternodes-bootstrap.md)
   * [How to download the latest peer.dat?](masternodes-peers.md)
   * [My server crashes, what should I do?](masternodes-fix-1.0.3.4-crash.md)
-  * My notes on multiple or single masternode set up step by step guide - coming soon.
-    - This is not the full instruction since Official DAPS Coin made a beautiful step by step instruction.
-    - This will be the add-on to what I needed to do to make my servers running without ever crashing and make all of them "ENABLED" all the time.
+  * [Masternode Checklist](masternode-checklist.md)
+
 
 
