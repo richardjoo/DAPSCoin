@@ -13,6 +13,7 @@
   * [ ] Did you follow the DAPS Masternode setup instruction?
   * [ ] Did you follow the QT Wallet setup instruction?
   * [ ] Did you check the QT Wallet to setup the masternode checklist below?
+  * [ ] Did you create a `dapscoin.config` file in your masternode server's `.dapscoin` folder?
   * [ ] If you checked all above, you should be able to run the masternode by running `dapscoind -daeemon`
 
 ## Multiple Masternodes
@@ -20,7 +21,7 @@
   * [ ] If you have decided to run multiple masternodes, did you enable IPv6?
   * [ ] After IPv6 is enabled, did you add list of IPv6?
   * [ ] Either Did you run the multiple node script from the DapsCoin Team or created appropriate files under `/usr/local/bin` and `.dapscoin00 to .dapscoinXX`?
-  * [ ] Did you create a `dapscoin.config` file in your masternode server's `.dapscoin` folder?
+  * [ ] Did you create a `dapscoin.config` file in your masternode server's `.dapscoin00` to `.dapscoin[xx]` folder? - where xx is your max node.
   * [ ] After following all the stpes above and QT wallet steps, you should be able to run `init00` if you have followed DapsCoin's multiple node setup procedure properly.
 
 ## QT Wallet to setup the masternode
