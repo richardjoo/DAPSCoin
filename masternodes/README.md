@@ -10,12 +10,12 @@
 
 <br><br>
 
-## Instructions
+## Table of Contents
   * [Official DAPS Masternode Instruction Video](https://www.youtube.com/watch?v=fRafErbGYzs)
   * [How to install bootstrap?](masternodes-bootstrap.md)
   * [How to download the latest peer.dat?](masternodes-peers.md)
   * [My server crashes, what should I do?](masternodes-fix-1.0.3.4-crash.md)
   * [Masternode Checklist](masternode-checklist.md)
-
+  * How to make your own bootstrap - Coming soon
 
 
