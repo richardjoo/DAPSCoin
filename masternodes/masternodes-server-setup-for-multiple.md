@@ -1,8 +1,11 @@
 # Setting Server for the Multiple Masternodes
   * This instruction is for the fresh installation.
-  * And this is specifically for my needs.
+  * This is specifically for my needs.
   * Some people may find few points unnecessary
   * I have used this setup on vultre.com servers.
+  * This is based on 30 multiple masternodes on 4 CPU / 4GB RAM.
+  * If you need only 5 masternodes, then it would be on 1 CPU / 1GB RAM and add allowed ports up to 53577
+  * Instruction on setting up actual masternodes will be added to this page soon.
 
 <br><br>
 ## Update your server
