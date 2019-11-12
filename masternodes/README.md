@@ -17,6 +17,7 @@
   * [My server crashes, what should I do?](masternodes-fix-1.0.3.4-crash.md)
   * [Masternode Checklist](masternode-checklist.md)
   * [How to setup your server for the multiple masternode server](masternodes-server-setup-for-multiple.md)
+  * [setting up multiple masternodes](masternodes-nodes-setup.md)
   * How to make your own bootstrap - Coming soon
 
 

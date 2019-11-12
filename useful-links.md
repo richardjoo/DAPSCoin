@@ -20,9 +20,17 @@
   - Telegram
     - Masternode support
       - @DAPS_MN_Support
-  - Lycidal's multiple node setup guide
+  - Lycidal's
     - script for a bootstap
       - https://raw.githubusercontent.com/lyricidal/Scripts/master/bootstrap.sh
+    - masternode update
+      - https://github.com/lyricidal/Scripts/blob/master/Masternodes/Update.sh
+    - Install Multiple IPv6
+      - https://github.com/lyricidal/Scripts/blob/master/Masternodes/InstallMultiIPv6.sh
+    - Masternode install
+      - https://github.com/lyricidal/Scripts/blob/master/Masternodes/Install.sh
+    - Multi node guide
+      - https://github.com/lyricidal/Scripts/blob/master/Masternodes/DAPS_MultiNode_Guide-v0.1.txt
   - IPv6 address in a sequence
     - https://superuser.com/questions/194397/how-to-find-the-next-ipv6-address-in-a-sequence
   - DAPS Masternode Instruction Video

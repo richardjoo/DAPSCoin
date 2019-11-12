@@ -6,6 +6,29 @@
   * This is based on 30 multiple masternodes on 4 CPU / 4GB RAM.
   * If you need only 5 masternodes, then it would be on 1 CPU / 1GB RAM and add allowed ports up to 53577
   * Instruction on setting up actual masternodes will be added to this page soon.
+  * Recommendation
+    - use iTerm2 or tmux to utilize the split screens.
+      - https://www.iterm2.com/
+    - use `screen` to create screens so you can prevent any loss or mess up during the server setup or node setup.
+
+<br><br>
+## create a screen
+  * screen is a helpful tool to keep your ssh session even if you close your terminal or lost the internet. If you do not enable the screen and work directly on the server to setup, you can mess up the server configuration process if you ever lose the connection.
+  * creating a new screen
+    - `screen -S s1`
+  * enter into the newly created screen
+    - `screen -x s1`
+  * to detach
+    - `CTRL+A, D`
+      - so, you press and hold the CTRL and then type A and then type D
+  * to get back to the screen again, type
+    - `screen -x s1`
+  * to list the screens
+    - `screen -list`
+  * when you lost the connection by accident
+    - ssh to the server again
+    - type
+      - `screen -x s1`
 
 <br><br>
 ## Update your server
@@ -143,7 +166,11 @@
     - reboot to ensure it is running after the reboot
       - `sudo reboot now`
 
-
+<br><br>
+## Building your masternodes
+  * At this point, you are ready to build the masternodes.
+  * Please click the link below to continue setting the masternodes.
+    - [setting up multiple masternodes](masternodes-nodes-setup.md)
 
 
 
